@@ -8,7 +8,6 @@ function sub(a,b)
     console.log(parseInt(a/b));
 }
 
-
 add(2,2);
 
 add(3,2);
