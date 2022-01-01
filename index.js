@@ -6,6 +6,7 @@ function add(a,b)
 function sub(a,b)
 {
     console.log(a - b);
+    console.log("Hello aditya");
 }
 
 add(2,2);
